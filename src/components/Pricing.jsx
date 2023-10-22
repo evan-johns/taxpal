@@ -111,8 +111,8 @@ export function Pricing() {
             for everyone.
           </h2>
           <p className="mt-4 text-lg text-slate-400">
-            It doesn’t matter what size your business is, our software won’t
-            work well for you.
+            It doesn’t matter what size your business is, TaxPal's got your
+            back.
           </p>
         </div>
         <div className="-mx-4 mt-16 grid max-w-2xl grid-cols-1 gap-y-10 sm:mx-auto lg:-mx-8 lg:max-w-none lg:grid-cols-3 xl:mx-0 xl:gap-x-8">
@@ -148,7 +148,7 @@ export function Pricing() {
           <Plan
             name="Enterprise"
             price="$39"
-            description="For even the biggest enterprise companies."
+            description="For even the largest enterprise companies."
             href="/register"
             features={[
               'Send unlimited quotes and invoices',
